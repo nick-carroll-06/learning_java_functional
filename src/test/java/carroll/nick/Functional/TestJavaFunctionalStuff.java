@@ -126,12 +126,4 @@ public class TestJavaFunctionalStuff {
     }
 
 
-
-
-
-// optionals
-// cucumber
-// data oriented processing
-// records and validations
-
 }
